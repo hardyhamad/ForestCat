@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75182405084",
+    "project_id": "forest-cat",
+    "storage_bucket": "forest-cat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75182405084:android:2a970f0584898e0a8a4b19",
+        "android_client_info": {
+          "package_name": "com.forest.cat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCAdPkRggq1VHqUvaQFqbNZ9o9Fshro74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
